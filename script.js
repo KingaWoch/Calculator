@@ -71,7 +71,6 @@ function clearScreen() {
 }
 
 
-// Nasłuchiwanie przycisków 
 
 numbers.forEach( (button) => button.addEventListener("click", displayNumbers) );
 
